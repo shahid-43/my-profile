@@ -19,9 +19,11 @@ const projectsData = [
     live: "#",
   },
   {
-    title: "Messaging App",
-    description: "Real-time Messaging App with React, Spring Boot, and PostgreSQL.",
-    tags: ["React", "Spring Boot", "PostgreSQL", "WebSocket"],
+    
+    title: "CodeDrop",
+    description: "Full-stack file transfer platform enabling secure, one-time downloads via a shared alphanumeric code, powered by Spring Boot and React.",
+    tags: ["Spring Boot", "React", "WebSockets", "Docker", "Nginx"],
+    
     // TODO: Replace this placeholder with your actual project image
     image: "https://images.pexels.com/photos/4126724/pexels-photo-4126724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     github: "https://github.com/shahid-43/FitTrack", // NOTE: Link points to FitTrack, update if different
