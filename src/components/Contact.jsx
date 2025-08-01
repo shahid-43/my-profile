@@ -26,7 +26,7 @@ const Contact = () => {
             <FaPhone className="icon"/>
             <span>+1 (352) 246-2892</span>
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-link-item">
+          <a href="https://www.linkedin.com/in/mohammad-shahid-shareef/" target="_blank" rel="noopener noreferrer" className="contact-link-item">
             <FaLinkedin className="icon"/>
             <span>LinkedIn</span>
           </a>
